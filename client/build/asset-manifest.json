@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b167627c.js",
+    "static/media/Es_flag.png": "/static/media/Es_flag.e0052ecf9667cc25b911.png",
+    "index.html": "/index.html",
+    "main.b167627c.js.map": "/static/js/main.b167627c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b167627c.js"
+  ]
+}
